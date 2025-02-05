@@ -1,0 +1,10 @@
+.fondo{
+   background-image: url(./img/ahorro\ 1.png); 
+   padding: 25%;
+   background-position: top center;
+   background-size: cover;
+   background-attachment: fixed;
+}
+.menu{
+    background-color: #b423b1;
+}
